@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sxT28Tb69XovWCbOY+TkURIAFgDRPAhmV0tKU3yDJv0F2pSuk0oUCo/uu4uWn5wDH6XhRJ2K4pVJ8RBBSpt1Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Devops\\Book Store\\BookStore\\Solution1\\src\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V.SIVAYYA\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\V.SIVAYYA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
